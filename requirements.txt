@@ -1,0 +1,4 @@
+jupyter
+ndradex
+numpy
+matplotlib
