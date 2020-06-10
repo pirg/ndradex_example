@@ -14,6 +14,7 @@ should print something along the lines of:
 "/Users/xxxx/yyy/ndradex_example/.venv/bin/python"
 
 2) Install the required modules:
+> pip install pip --upgrade
 > pip install -r requirements.txt
 
 3) Start a Jupyter notebook server
