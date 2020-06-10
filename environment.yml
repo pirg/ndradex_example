@@ -2,6 +2,7 @@ name: example-environment
 
 dependencies:
   - python=3.6
+  - pip>=20.1.1
   - Cython
   - numpy
   - scipy
