@@ -1,0 +1,22 @@
+1) Create a virtual environment
+I recommend you install all the modules in a virtual environment. Skip this
+step if you know what you are doing. Here are the instructions for python 3.6
+
+Create a virtual environment folder (.venv):
+> python3 -m venv .venv
+
+Activate it:
+> source .venv/bin/activate
+
+You can check you are indeed using the virtual environment python
+> which python
+should print something along the lines of:
+"/Users/xxxx/yyy/ndradex_example/.venv/bin/python"
+
+2) Install the required modules:
+> pip install -r requirements.txt
+
+3) Start a Jupyter notebook server
+> jupyter notebook
+
+4) Run the tutorial notebook ndradex.ipynb
